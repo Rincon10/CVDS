@@ -29,4 +29,8 @@ print("Hello world!")
 ```
 ## Ejercicios learn git branch
 
+![1](![1](https://github.com/Rincon10/CVDS/blob/master/Leonardo%20Galeano/SS1.jfif))
+
+![2](![1](https://github.com/Rincon10/CVDS/blob/master/Leonardo%20Galeano/SS2.jfif))
+
 Bogotá, Colombia.
