@@ -56,7 +56,7 @@ Iván Camilo Rincón Saavedra
 
 4. *Plan de estudios*
 
-   ![1](https://github.com/Rincon10/PRIVATE-CVDS/blob/master/Laboratorios/Laboratorio1-CVDS/resources/plan.jpg)
+   ![1](https://github.com/Rincon10/CVDS/blob/master/Camilo%20Rincon/resources/plan.jpg)
 
 ## Git Branching
 
@@ -64,8 +64,8 @@ Realizando la introducción de [git Branching](https://learngitbranching.js.org/
 
 ## Ejercicios "Principal"
 
-![2](https://github.com/Rincon10/PRIVATE-CVDS/blob/master/Laboratorios/Laboratorio1-CVDS/resources/pt1.jpg)
+![2](https://github.com/Rincon10/CVDS/blob/master/Camilo%20Rincon/resources/pt1.jpg)
 
 ## Ejercicios "Remoto" 
 
-![3](https://github.com/Rincon10/PRIVATE-CVDS/blob/master/Laboratorios/Laboratorio1-CVDS/resources/pt2.jpg)
+![3](https://github.com/Rincon10/CVDS/blob/master/Camilo%20Rincon/resources/pt2.jpg)
