@@ -1,20 +1,25 @@
-# Ana Gabriela Silva
-#### **ingeniería de sistemas**
-> *Estudiante de sexto semestre en la Escuela Colombiana de ingeniería Julio Garavito.*
+# **Ana Gabriela Silva, 19**
+[Instagram]
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.universidadesenbogota.com%2Fitem%2Fescuela-colombiana-ingenieria-julio-garavito%2Fcampus-escuela-colombiana-ingenieria-julio-garavito%2F&psig=AOvVaw3V28COE8Z57jlPWOnv5WAI&ust=1596806769577000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDs5vXWhusCFQAAAAAdAAAAABAJ)
+[Instagram]: (https://www.instagram.com/_agabriela_/?hl=es-la)7
+Soy estudiante de sexto semestre de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Curso el plan de estudios número 14.
 
-### Pasatiempos:
-* Ver series
-* Leer
+#### _Hobbies_
+* Series
+* leer
 * Dormir
 * Escuchar música, en cuanto a esto mis bandas favoritas son:
-
-  1. Coldplay.
-  2. Morat.
-
+  1. Coldplay
+  2. Morat
 
 ```
-#Code block
-print 'Gracias'
+print("Gracias")
 ```
+### **Git Branching**
+#### _Nivel 'main'_
+
+![Main](https://github.com/Rincon10/CVDS/blob/master/Ana%20Gabriela/Imagenes/cvds1.png)
+
+#### _Nivel 'remote'_
+
+![remote](https://github.com/Rincon10/CVDS/blob/master/Ana%20Gabriela/Imagenes/cvds2.png)
