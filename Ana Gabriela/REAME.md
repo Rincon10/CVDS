@@ -1,7 +1,7 @@
 # **Ana Gabriela Silva, 19**
-[Instagram]
 
-[Instagram]: (https://www.instagram.com/_agabriela_/?hl=es-la)7
+[Instagram](https://www.instagram.com/_agabriela_/?hl=es-la)
+
 Soy estudiante de sexto semestre de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Curso el plan de estudios número 14.
 
 #### _Hobbies_
