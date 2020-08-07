@@ -22,3 +22,7 @@ Actualmente estudiando ingeniería de sistemas en sexto semestre
 print("Hello World")
 
 ```
+##Git Branching
+![1](https://github.com/Rincon10/CVDS/blob/master/Andres/2020-08-06%20(31).png)
+![2]![2](https://github.com/Rincon10/CVDS/blob/master/Andres/2020-08-06%20(32).png)
+
